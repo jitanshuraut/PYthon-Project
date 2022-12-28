@@ -1,0 +1,41 @@
+.box:hover{
+    transition: 0.3s;
+    background-color: #3A6FF8;
+    cursor: pointer;
+}
+.box_btn:hover{
+    transition: 0.3s;
+    background-color: #3A6FF8;
+    cursor: pointer;
+    color: #3A6FF8;
+    border-color: #3A6FF8;
+}
+.hr{
+    height: 5px;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    margin-top: 5px;
+    background-color: #3A6FF8;
+}
+.lib{
+    
+    padding: 10px;
+    background-color: #1B2028;
+    border-radius: 5px;
+}
+.lib_st{
+    
+    padding: 10px;
+    background-color: #1B2028;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 10px;
+}
+.lib_st:hover{
+    
+  
+    color: rgb(53, 228, 53);
+    cursor: pointer;
+   
+}
