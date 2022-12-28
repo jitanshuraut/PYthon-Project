@@ -80,7 +80,7 @@ https://
 
 
 ### Developer:
-```
+
 [Jitanshu](https://github.com/jitanshuraut)
-[Go to the Support Web Site](https://support.west-wind.com)
-```
+
+
